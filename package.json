@@ -1,0 +1,19 @@
+{
+  "name": "managementkendaraan",
+  "version": "1.0.0",
+  "description": "AKUN=Admin(Username = lino21;password=12)\r      Pengawas(Username = siapa;password = 12)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcelinoSyahPratama/ManagementKendaraan.git"
+  },
+  "author": "marcelino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcelinoSyahPratama/ManagementKendaraan/issues"
+  },
+  "homepage": "https://github.com/MarcelinoSyahPratama/ManagementKendaraan#readme"
+}
